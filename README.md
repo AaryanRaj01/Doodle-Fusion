@@ -1,16 +1,41 @@
-# mutliplayer_game
+# Doodle Fusion  
 
-A new Flutter project.
+" Doodle Fusion " is a fun drawing game where you can doodle and sketch with friends. It's easy to use and lets you be creative together, whether you're playing competitively or just having fun.
+
+
+## Features
+
+* Intuitive drawing tools
+* Multiplayer functionality
+* Collaborative drawing sessions
+* Social interaction
+* Light Mode and Dark Mode Feature
+* Simple and user-friendly interface
+* Accessibility features for players of all skill levels
+
+
+## TechStack
+
+The "Doodle Fusion" game leverages the following technologies:
+
+* Flutter: Used for developing the frontend of the game application. 
+
+* Node.js: Employed for the backend server-side logic of the game. 
+
+* MongoDB: Chosen as the database management system for storing game data such as user profiles, game settings, and drawings.
+
+* Socket.IO: Utilized for real-time bidirectional communication between the server and clients. 
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run this project on your local machine, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+1. Ensure you have Flutter installed. If not, you can [install Flutter](https://flutter.dev/docs/get-started/install).
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2. Clone this repository:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3. Run flutter pub get to add all the dependdencies
+
+
+
